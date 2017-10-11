@@ -1,6 +1,3 @@
-include_directories(
-  ${qRestAPI_SOURCE_DIR}
-  )
 
 create_test_sourcelist(qRestAPITests_SRC
   qRestAPITests.cpp
